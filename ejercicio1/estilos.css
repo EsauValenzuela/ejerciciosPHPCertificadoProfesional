@@ -1,0 +1,48 @@
+/*Hola de estilos  ejercicio 1*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background-color:aquamarine;
+}
+
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    color: blue
+}
+
+.formulario {
+    width: 50%; 
+    margin-left: 696px;
+    
+}
+
+label {
+    font-size: 21px;
+    color: blue
+}
+input {
+   margin-bottom : 10px;
+   display:block;
+    
+
+}
+
+    .enviar {
+        width: 150px;
+        height: 30px;
+    
+        border: 1px black solid;
+        border-radius: 5px;
+        background-color: blue;
+        color: white
+}
+
+
